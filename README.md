@@ -50,4 +50,4 @@
 |dc02|	lemon	|Berlin|
 |fb01|	Grosvenor|	London|
 |fb02|	Watergate|	Paris|
-hy01	Taj	Hyderabad
+|hy01	|Taj	|Hyderabad|
