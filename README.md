@@ -51,3 +51,25 @@
 |fb01|	Grosvenor|	London|
 |fb02|	Watergate|	Paris|
 |hy01	|Taj	|Hyderabad|
+
+
+|   room_id             |   hotel_id         |   room_type        |   price         |
+|:------------------- |:--------------:|:-------------:|  ------------:|
+|501	|fb01	|single	|500|
+|601	|fb01	|double	|1000|
+|701	|fb01	|family	|1500|
+|1001|	fb02	|single|	300|
+|1101|	fb02	|double|	600|
+|1001|	ch01	|single|	400|
+|1101|	ch01	|family|	800|
+|701	|ch02	|single	|250|
+|801	|ch02	|double	|500|
+|901	|dc01	|single	|600|
+|1001|	dc01	|double|	1200|
+|1101|	dc01	|family|	2400|
+|1001|	dc02	|single|	900|
+|1101|	dc02	|double|	1800|
+|701	|dc02	|family	|2600|
+|1001|	hy01	|single|	200|
+|1101|	hy01	|double|	400|
+|701	|hy01	|family	|800|
