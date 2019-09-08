@@ -1,8 +1,8 @@
 # Introduction-to-Data-Science
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
+| col 3 is      | some wordy text |  |
+| col 2 is      | centered        |    |
 | zebra stripes | are neat        |    $1 |
 
         
