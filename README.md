@@ -26,3 +26,10 @@
 |hotel_id	            |varchar(10)	   |NO	           |PRI	           |
 |hotel_name	          |varchar(20)	   |NO		         |               |
 |city	                |varchar(20)	   |NO		         |               |
+
+|   Field             |   type         |   NULL        |   Key         |
+|:------------------- |:--------------:|:-------------:|  ------------:|
+|room_id	|decimal(5,0)|	YES|	MUL|
+|hotel_id	|varchar(10)	|YES|	MUL|
+|room_type	|varchar(10)|	YES	|
+|price	|int(11)	|YES	|
