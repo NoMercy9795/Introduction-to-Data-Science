@@ -19,3 +19,8 @@
 |10007|	Tony Shaw	|12 Park Pl, Glasgow
 |10008|	knight Darren|	13 , Berlin
 |10010|	krishna	|Kukatpally hyderabad
+|   Field             |   type         |   NULL        |   Key         |
+|:------------------- |:--------------:|:-------------:|  ------------:|
+|hotel_id	            |varchar(10)	   |NO	           |PRI	           |
+|hotel_name	          |varchar(20)	   |NO		         |               |
+|city	                |varchar(20)	   |NO		         |               |
