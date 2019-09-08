@@ -33,3 +33,11 @@
 |hotel_id	|varchar(10)	|YES|	MUL|
 |room_type	|varchar(10)|	YES	|
 |price	|int(11)	|YES	|
+
+|   Field             |   type         |   NULL        |   Key         |
+|:------------------- |:--------------:|:-------------:|  ------------:|
+|hotel_id	|varchar(10)	|NO	|PRI|
+|guest_no	|decimal(5,0)|	NO|	PRI|
+|date_from	|date	|NO|	PRI|
+|date_to|	date|	NO|	
+|room_id	|decimal(5,0)	|NO	|MUL|
