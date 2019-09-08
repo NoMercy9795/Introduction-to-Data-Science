@@ -41,3 +41,13 @@
 |date_from	|date	|NO|	PRI|
 |date_to|	date|	NO|	
 |room_id	|decimal(5,0)	|NO	|MUL|
+
+|   hotel_id             |   hotel_name         |   city        |
+|:------------------- |:--------------:|-------------:| 
+|ch01|	Omni Shoreham|	London|
+|ch02|	Phoenix Park|	London|
+|dc01|	Latham	|Berlin|
+|dc02|	lemon	|Berlin|
+|fb01|	Grosvenor|	London|
+|fb02|	Watergate|	Paris|
+hy01	Taj	Hyderabad
